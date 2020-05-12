@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Combat Simulator
+</name>
+</assembly>
+<members>
+<member name="T:Combat_Simulator.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.spr_Archer1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.spr_Archer2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.spr_Knight1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.spr_Knight2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.spr_Mage1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.spr_Mage2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.spr_Thief1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Combat_Simulator.My.Resources.Resources.spr_Thief2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Combat_Simulator.Player">
+ <summary>
+ The player Class. To create a player, put the player number in and the role
+ </summary>
+</member>
+<member name="T:Combat_Simulator.Skill">
+ <summary>
+ The skill object. Contains information about the skill. Has a use() to use the skill.
+ For cooldown based effects that target the skill, use addCooldown(value as integer).
+ </summary>
+</member>
+<member name="M:Combat_Simulator.Skill.#ctor(System.String,System.String,System.String,System.Boolean,System.Int32,System.Int32)">
+ <summary>
+ Create a new skill using this function. Add the Name, the RoleType and the skill's description in. Additional information can be added.
+ </summary>
+</member>
+<member name="T:Combat_Simulator.SkillLibrary">
+ <summary>
+ The library where all the skills are stored, ready for use. To use this object, just create a new SkillLibrary().
+ </summary>
+</member>
+</members>
+</doc>

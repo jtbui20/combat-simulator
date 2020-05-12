@@ -1,0 +1,52 @@
+﻿Stuff Complete:
+	-Major UI
+	-Class Swap Mechanic
+	-Reset Mechanic
+	-Basic Attack Mechanics
+	-Passive Mechanics
+
+
+Stuff left to do:
+	-Apply skill effeects
+		-Work out a way to do "Choose a skill" skills
+			-Work out a way to not activate the chosen skill
+	-Graphical representations
+	-Refine it
+
+
+Extras if possible:
+	-LAN PARTY
+		-Lobby
+		-Spectators
+	-More classes
+
+
+Choose a skill effect
+1. Activate the skill
+2. Disable all other interactions with other skills
+	Enable self and all 3 usable enemy skills
+3. Click on the skill portrait
+		-If self, enable all self skills and disable all enemy skills
+	-Confirm message
+4. Apply the effect to the skill
+5. End the turn
+
+Skills that use the "Choose a skill" effect:
+	-Archer
+		-Stealth Trap
+			-Choose a skill and put a trap on it.
+			-If the skill is used, DO NOT ACTIVATE THE CHOSEN SKILL
+			-Deal 400
+			-Pass Turn
+	-Knight
+		-Smite
+			-Choose a skill and stun it
+			-Chosen skill gains a 1 turn cooldown
+			-Deal basic damage
+			-Pass Turn
+	-Wizard
+		-Sealed Chains
+			-CHoose a skill and stun it
+			-Chosen skill gains a 2 turn cooldown
+			-Pass turn
+

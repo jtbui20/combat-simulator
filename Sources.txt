@@ -1,0 +1,6 @@
+﻿Sources used:
+
+https://msdn.microsoft.com/en-us/ - Used for documentation 
+https://docs.microsoft.com/en-us/ - Used for documentation
+https://stackoverflow.com - Used for syntax checks
+https://desmos.com/calculator - Used for Damage Formula Calculation

@@ -1,0 +1,55 @@
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.exe.config
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.exe
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.pdb
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.xml
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbprojResolveAssemblyReference.cache
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmFight.resources
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmStart.resources
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.Resources.resources
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbproj.GenerateResource.Cache
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbproj.CoreCompileInputs.cache
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.exe
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.xml
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.pdb
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.exe.config
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.exe
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.pdb
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.xml
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbprojResolveAssemblyReference.cache
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmFight.resources
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmStart.resources
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.Resources.resources
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbproj.GenerateResource.Cache
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbproj.CoreCompileInputs.cache
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.exe
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.xml
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.pdb
+C:\Users\jtbui20\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmControls.resources
+C:\Users\jtbui\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmControls.resources
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.exe.config
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.exe
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.pdb
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.xml
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbprojResolveAssemblyReference.cache
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmControls.resources
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmFight.resources
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmStart.resources
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.Resources.resources
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbproj.GenerateResource.Cache
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.exe
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.xml
+C:\Users\BUI0023\OneDrive - Melbourne High School\Digital Tech\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.pdb
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.exe.config
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.exe
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.pdb
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\bin\Debug\Combat Simulator.xml
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmControls.resources
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmFight.resources
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.frmStart.resources
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat_Simulator.Resources.resources
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbproj.GenerateResource.cache
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbproj.CoreCompileInputs.cache
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.exe
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.xml
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.pdb
+C:\Users\jtbui\OneDrive - Melbourne High School\_General Elective Subjects\2017 - Digital Technology\Projects\Assessment\Combat Simulator\obj\Debug\Combat Simulator.vbprojAssemblyReference.cache
